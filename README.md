@@ -1,0 +1,1 @@
+[![React Junior Certificate](https://img.shields.io/badge/React_Certified-Junior-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1A365D)](https://certificates.dev/react/certificates/a2fcab45-236a-4a6e-9894-b00646844152)
